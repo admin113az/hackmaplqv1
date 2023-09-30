@@ -1,0 +1,6 @@
+{
+    "m_totalBattleWinCnt": 0,
+    "m_totalBattleCnt": 0,
+    "m_localBattleRecordsCnt": 0,
+    "m_json_battleDetailList": []
+}
